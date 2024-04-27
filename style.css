@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    background-color: burlywood;
+    text-align: center; color:brown;
+    font-size: 50px  
+}
+.container {
+    display:flex;
+}
+.container h2{
+    color:brown
+}
+.container p {
+    font-size: 20px;
+}
+#imagem {
+    width: 500px;
+    height: 330px;
+    border: 2px solid black;
+}
+
+a {
+    background-color:burlywood;
+    color: black;
+}
+a:hover{
+   color: white;
+   background-color:maroon
+}
+#teatro {
+    padding: 0 24px;
+}
+
+#teatro2 {
+    padding: 50px 0;
+}
+
+#teatro4 {
+    padding: 50px 0;
+}
